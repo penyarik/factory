@@ -1,5 +1,5 @@
 <?php
-
+//Abstrat Factory
 abstract class TagsFactory{
     abstract function getTag();
 
@@ -53,4 +53,10 @@ class h1Tag extends TagsFactory implements Tag{
     }
 
 }
+
+
+
+
+
+
 
