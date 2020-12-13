@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54871ccb-34d8-49bb-9057-a1e856c27755" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/factoryMethod.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/h1Tag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/pTag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/tagInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/tagsFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethod/divTag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethod/h2Tag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethod/tagFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethod/tagsInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleFactory/Car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleFactory/Factory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleFactory/House.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleFactory/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleFactory/factoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticMethod/employeeBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticMethod/namagerBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticMethod/userAbstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticMethod/userBuilder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstrastFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstrastFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstrastFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factoryMethod.php" beforeDir="false" afterPath="$PROJECT_DIR$/factoryMethod.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +48,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/factoryMethod" />
+      <recent name="$PROJECT_DIR$/staticMethod" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,7 +65,8 @@
       <updated>1607333851566</updated>
       <workItem from="1607333860901" duration="4581000" />
       <workItem from="1607510102021" duration="472000" />
-      <workItem from="1607510641770" duration="474000" />
+      <workItem from="1607510641770" duration="757000" />
+      <workItem from="1607882552019" duration="3784000" />
     </task>
     <servers />
   </component>
