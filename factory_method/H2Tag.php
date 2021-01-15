@@ -1,7 +1,7 @@
 <?php
 
 
-class h2Tag  implements tagsInterface
+class H2Tag  implements TagsInterface
 {
 
     private $content;

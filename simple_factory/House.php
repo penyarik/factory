@@ -1,7 +1,7 @@
 <?php
 
 
-class House implements factoryInterface
+class House implements FactoryInterface
 {
     private $houseData = array();
     public function __construct($country, $city, $street, $number){

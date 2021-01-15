@@ -1,7 +1,6 @@
 <?php
 
-
-class pTag extends tagsFactory implements tagInterface{
+class H1Tag extends TagsFactory implements TagInterface{
 
     private $content;
 
@@ -15,7 +14,7 @@ class pTag extends tagsFactory implements tagInterface{
     }
     public function create()
     {
-        return "<p> $this->content </p>";
+        return "<h1>$this->content</h1>";
     }
 
 }

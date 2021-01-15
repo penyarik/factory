@@ -1,7 +1,7 @@
 <?php
 
 
-class tagFactory {
+class TagFactory {
 
     public function buildTag($className){
         $tag = new $className('content');

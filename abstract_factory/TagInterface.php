@@ -1,7 +1,6 @@
 <?php
 
-
-interface tagInterface{
+interface TagInterface{
     public function create();
 
 }

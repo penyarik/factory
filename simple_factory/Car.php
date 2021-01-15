@@ -1,7 +1,7 @@
 <?php
 
 
-class User implements factoryInterface
+class Car implements FactoryInterface
 {
     private $name;
     public function __construct($name){

@@ -1,7 +1,7 @@
 <?php
 
 
-abstract class userAbstract
+abstract class UserAbstract
 {
     public $rights = ['view'];
 

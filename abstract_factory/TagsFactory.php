@@ -1,7 +1,7 @@
 <?php
 
 
-abstract class tagsFactory{
+abstract class TagsFactory{
     abstract function getTag();
 
     public function buildTag()

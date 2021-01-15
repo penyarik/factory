@@ -2,26 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54871ccb-34d8-49bb-9057-a1e856c27755" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/abstractFactory/h1Tag.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/pTag.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/tagInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/tagsFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethod/divTag.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethod/h2Tag.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethod/tagFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethod/tagsInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactory/Car.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactory/Factory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactory/House.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactory/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactory/factoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticMethod/employeeBuilder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticMethod/namagerBuilder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticMethod/userAbstract.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticMethod/userBuilder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstrastFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstrastFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryMethod.php" beforeDir="false" afterPath="$PROJECT_DIR$/factoryMethod.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstractFactory/h1Tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/H1Tag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstractFactory/pTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/PTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstractFactory/tagInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/TagInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstractFactory/tagsFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/TagsFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factoryMethod/divTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/factory_method/DivTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factoryMethod/h2Tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/factory_method/H2Tag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factoryMethod/tagFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/factory_method/TagFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factoryMethod/tagsInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/factory_method/TagsInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleFactory/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_factory/Car.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleFactory/Factory.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_factory/Factory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleFactory/House.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_factory/House.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleFactory/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_factory/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleFactory/factoryInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/simple_factory/FactoryInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticMethod/employeeBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/static_method/EmployeeBuilder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticMethod/namagerBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/static_method/ManagerBuilder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticMethod/userAbstract.php" beforeDir="false" afterPath="$PROJECT_DIR$/static_method/UserAbstract.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticMethod/userBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/static_method/UserBuilder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,8 @@
       <workItem from="1607333860901" duration="4581000" />
       <workItem from="1607510102021" duration="472000" />
       <workItem from="1607510641770" duration="757000" />
-      <workItem from="1607882552019" duration="3784000" />
+      <workItem from="1607882552019" duration="4552000" />
+      <workItem from="1610726531250" duration="1796000" />
     </task>
     <servers />
   </component>

@@ -1,14 +1,14 @@
 <?php
 
 
-class userBuilder
+class UserBuilder
 {
     public static function builder($type){
         if($type == 'employee'){
             return new employeeBuilder();
         }
         elseif ($type == 'manager'){
-            return new namagerBuilder();
+            return new managerBuilder();
         }
         else{
             throw new Exception('Unknown user type');

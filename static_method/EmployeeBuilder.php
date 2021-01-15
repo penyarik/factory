@@ -1,11 +1,11 @@
 <?php
 
 
-class namagerBuilder extends userAbstract
+class EmployeeBuilder extends UserAbstract
 {
     public function getRights()
     {
-        $stringRights = 'Manager Rights:';
+        $stringRights = 'Employee Rights:';
         foreach ($this->rights as $right){
             $stringRights .= $right;
         }

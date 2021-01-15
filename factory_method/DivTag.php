@@ -1,7 +1,7 @@
 <?php
 
 
-class divTag implements tagsInterface
+class DivTag implements TagsInterface
 {
 
     private $content;

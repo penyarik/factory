@@ -1,7 +1,7 @@
 <?php
 
 
-interface factoryInterface
+interface FactoryInterface
 {
     public function getData();
 
